@@ -50,7 +50,7 @@ nav a {
 
 #search{
     height: 33px;
-    padding: 3px;
+    padding: 3px 3px 3px 50px;
     width: 850px;
     margin: 10px 0 10px 0;
     background-color: #f2f2f2;
